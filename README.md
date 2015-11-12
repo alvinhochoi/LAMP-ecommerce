@@ -1,4 +1,6 @@
-# LAMP Stack Project for Coding Dojo
+# LAMP Stack Project 
+
+Coding Dojo, Los Angeles Cohort August 2015
 
 Sample ecommerce website, Pokemon Store, built using PHP, MySQL, and Apache server
 
