@@ -2,8 +2,6 @@
 
 Sample ecommerce website, Pokemon Store, built using PHP, MySQL, and Apache server
 
-Alvin Choi
-Steven Kang
-Nicholas Ko
+Alvin Choi, Steven Kang, Nicholas Ko
 
 Copyright 2015
