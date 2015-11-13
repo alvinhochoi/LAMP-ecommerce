@@ -1,4 +1,4 @@
-# LAMP Stack Project 
+# LAMP Full Stack Project 
 
 Coding Dojo, Los Angeles Cohort August 2015
 
